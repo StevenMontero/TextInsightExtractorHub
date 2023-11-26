@@ -71,7 +71,7 @@ Asegúrate de tener Docker y Docker Compose instalados en tu máquina.
 
     ```bash
     git clone https://github.com/StevenMontero/TextInsightExtractorHub
-    cd tu_proyecto
+    cd TextInsightExtractorHub
     ```
 
 2. Construye la imagen Docker:
