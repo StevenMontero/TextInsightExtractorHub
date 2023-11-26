@@ -70,7 +70,7 @@ Asegúrate de tener Docker y Docker Compose instalados en tu máquina.
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu_usuario/tu_proyecto.git
+    git clone https://github.com/StevenMontero/TextInsightExtractorHub
     cd tu_proyecto
     ```
 
