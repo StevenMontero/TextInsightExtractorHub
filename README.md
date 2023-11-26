@@ -150,7 +150,7 @@ Docker es una plataforma que facilita la creación, implementación y ejecución
 
 ## Instalación en macOS
 
-1. Descarga [Docker Desktop for Mac](https://desktop.docker.com/mac/stable/Docker.dmg) desde el sitio web oficial de Docker.
+1. Descarga [Docker Desktop for Mac](https://www.docker.com/products/docker-desktop/) desde el sitio web oficial de Docker.
 
 2. Abre el archivo descargado (Docker.dmg) y arrastra Docker a la carpeta de Aplicaciones.
 
@@ -164,7 +164,7 @@ Docker es una plataforma que facilita la creación, implementación y ejecución
 
 ## Instalación en Windows
 
-1. Descarga [Docker Desktop for Windows](https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe) desde el sitio web oficial de Docker.
+1. Descarga [Docker Desktop for Windows](https://www.docker.com/products/docker-desktop/)desde el sitio web oficial de Docker.
 
 2. Ejecuta el instalador descargado y sigue las instrucciones.
 
