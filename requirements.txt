@@ -1,0 +1,11 @@
+# Specify fixed versions for spaCy and sense2vec because pretrained models are only compatible with certain versions;
+# and tests use hardcoded outputs, so the program may randomly fail to build if a dynamic version is used.
+ujson==5.8.0
+fastapi==0.104.1
+uvicorn==0.24.0
+requests==2.31.0
+spacy==3.7.2
+yake==0.4.8
+pydantic
+Unidecode
+pyyaml

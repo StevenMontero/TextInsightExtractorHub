@@ -1,0 +1,6 @@
+language: "es"
+max_ngram_size: 3
+deduplication_threshold: 0.9
+deduplication_algo: 'seqm'
+window_size: 1
+num_of_keywords: 20

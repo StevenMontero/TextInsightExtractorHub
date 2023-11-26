@@ -1,0 +1,12 @@
+version: "3"
+services:
+  keyword-app-api:
+    build:
+      context: .
+    environment:
+      - SPACY_MODEL=es_core_news_lg
+
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src:/src 
