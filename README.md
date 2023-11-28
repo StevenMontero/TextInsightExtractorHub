@@ -237,6 +237,9 @@ json_data = {
 }
 
 
+# URL de tu API local
+url = "http://localhost:8000/extract_keyphrases"  # Ajusta el puerto si es diferente
+
 # Hacer la solicitud POST
 response = requests.post(url, json=json_data)
 
