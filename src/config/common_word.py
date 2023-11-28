@@ -7,7 +7,7 @@ common_words = [
     "tarde", "noche", "cómo estás", "qué tal", "como","hasta","asta",
     "gusto", "encantado", "encantada", "aqui", "cuenta","rm","momento","pm",""
     "ordenes", "contacto", "placer", "vamos", "genial","listo","actualmente",
-    "excelente", "maravilloso", "adiós","hasta","pronto","lindo","linda",
+    "excelente", "maravilloso", "adiós","hasta","pronto","lindo","linda","manana",
     "nos vemos", "suerte", "éxito", "buen viaje", "diviértete", "descansa","link","gustosos",
     "cuidate","te escribo luego","a tu disposición", "te dejo", "me retiro", "debo irme",
     "pablo","url","muchas","nan","dni","x","favor","bienvenido","correo","numero","apellido","nombre","pt","cedula"
