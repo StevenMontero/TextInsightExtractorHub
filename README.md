@@ -222,6 +222,36 @@ else:
 
 ```
 
+```python
+json_data = {
+
+  "config":  {
+        "deduplication_threshold": 0.9,
+        "window_size": 1,
+        "num_of_keywords": 20,
+        "language": "es",
+        "max_ngram_size": 3,
+        "deduplication_algo": "seqm",
+    },
+  "messages_list": data
+}
+
+
+# Hacer la solicitud POST
+response = requests.post(url, json=json_data)
+
+# Verificar el código de estado de la respuesta
+if response.status_code == 200:
+    # Imprimir los resultados
+    print(response.json())
+else:
+    print(f"Error en la solicitud: {response.status_code}")
+    print(response.text)
+
+
+data_r = response.json()
+```
+
 ### Resultado:
 
 ![Alt text](image.png)
